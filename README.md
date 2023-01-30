@@ -2,7 +2,7 @@
 Our customer Bianca has hired us to build an inventory management system for her bike shop. She wants to keep track of the bike owners she works with, the bikes that they have brought to the shop for repairs, and the maintenance history for each bike. 
 
 ## Setup
-1. clone this repo
+1. Click the green "Use this template" button to make your own repo
 1. open the solution in Visual Studio
 1. open the `client` folder in VS Code
 1. run the `BiancasBikeShopCreate.sql` script and then `BiancasBikeShopSeed.sql` in the `SQL` folder in SQL Server Object explorer
